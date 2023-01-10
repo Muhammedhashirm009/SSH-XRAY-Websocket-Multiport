@@ -1,5 +1,5 @@
 [Unit]
-Description=Websocket-OpenSSH By Vinstechmy
+Description=Websocket-OpenSSH By Hashir
 Documentation=https://Vinstechmy-Project.net
 After=network.target nss-lookup.target
 

@@ -1,5 +1,5 @@
 [Unit]
-Description=SSH Over Websocket Python Vinstechmy
+Description=SSH Over Websocket Python Hashir
 Documentation=https://Vinstechmy-Project.net
 After=network.target nss-lookup.target
 
